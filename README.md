@@ -2,7 +2,7 @@
 
 Un remake in stile retrò del classico gioco arcade **Asteroids**, sviluppato in **Python** con **Pygame**, come parte di una sfida di programmazione per rivivere i giochi degli anni '80 con l'aiuto degli strumenti AI.
 
-![Gameplay Screenshot](Screenshots.png)
+![Gameplay Screenshot](Screenshot 2025-07-10 121849.png)
 
 ## 🎮 Perché Asteroids?
 
